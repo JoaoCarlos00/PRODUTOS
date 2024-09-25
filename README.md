@@ -80,6 +80,7 @@ public class Pessoas { //Criei um classe de pessoas e adicionei os atributos
 	    	  System.out.println(p2.descricao());
 	    	  }
 	    	  }
+	//NOTA: não consegui fazer o desafio e ao pesquisar no chatgpt não compreendi o código portanto não achei válido somente copiar para ganhar nota
 ## 🛠️ Construído com
 
 Ferramentas utilizadas e bibliotecas
